@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
+  "version": "1.10.1",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Automatische updates: de app houdt zichzelf vanaf nu up-to-date"
+  "notes": "Sessiepaneel: zachtere look en de chatbalk blijft altijd zichtbaar"
 }
