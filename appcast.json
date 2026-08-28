@@ -1,5 +1,5 @@
 {
-  "version": "1.10.3",
+  "version": "1.10.4",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Chat wissen vraagt geen bevestiging meer (⌘K wist meteen); interne opruiming."
+  "notes": "Versienummer zichtbaar in het tandwiel-menu, zodat je ziet welke versie je hebt."
 }
