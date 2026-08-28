@@ -1,5 +1,5 @@
 {
-  "version": "1.10.2",
+  "version": "1.10.3",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Sneltoetsen: ⌘R ververst de data, ⌘K wist de chat (met bevestiging)."
+  "notes": "Chat wissen vraagt geen bevestiging meer (⌘K wist meteen); interne opruiming."
 }
