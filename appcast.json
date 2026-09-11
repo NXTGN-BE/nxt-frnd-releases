@@ -1,5 +1,5 @@
 {
-  "version": "1.11.4",
+  "version": "1.11.5",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "TEST-label naast het Logboek-tabblad: dat deel is nog in test"
+  "notes": "Dock-klik opent nu het venster; de widget blijft via de menubar en ⌃⌥T"
 }
