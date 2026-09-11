@@ -1,0 +1,62 @@
+[
+  {
+    "version": "1.11.6",
+    "date": "2026-09-11",
+    "notes": "Groen actiekader alleen nog bij echt geboekte tijd, niet bij vragen of lookups"
+  },
+  {
+    "version": "1.11.5",
+    "date": "2026-09-11",
+    "notes": "Dock-klik opent nu het venster; de widget blijft via de menubar en ⌃⌥T"
+  },
+  {
+    "version": "1.11.4",
+    "date": "2026-09-11",
+    "notes": "TEST-label naast het Logboek-tabblad: dat deel is nog in test"
+  },
+  {
+    "version": "1.11.3",
+    "date": "2026-09-11",
+    "notes": "Leesbaarder sessie-widget: compactere rijen, vette datums, duidelijkere labels"
+  },
+  {
+    "version": "1.11.2",
+    "date": "2026-09-11",
+    "notes": "Voorbereiding boeken op een komende sessie, ook als je niets openstaan hebt."
+  },
+  {
+    "version": "1.11.1",
+    "date": "2026-09-11",
+    "notes": "Voorbereiding loggen op een sessie, komende sessies in het paneel, intern werk via de chat (\"log 2u marketing\") dat buiten je maandtotaal blijft, en een 'Wat is nieuw' in het tandwiel-menu."
+  },
+  {
+    "version": "1.11.0",
+    "date": "2026-09-11",
+    "notes": "Voorbereiding op een sessie loggen, komende sessies in het paneel, en intern werk (marketing, bizdev, operations) dat niet meetelt in je maandtotaal."
+  },
+  {
+    "version": "1.10.4",
+    "date": "2026-08-28",
+    "notes": "Versienummer zichtbaar in het tandwiel-menu, zodat je ziet welke versie je hebt."
+  },
+  {
+    "version": "1.10.3",
+    "date": "2026-08-28",
+    "notes": "Chat wissen vraagt geen bevestiging meer (⌘K wist meteen); interne opruiming."
+  },
+  {
+    "version": "1.10.2",
+    "date": "2026-08-28",
+    "notes": "Sneltoetsen: ⌘R ververst de data, ⌘K wist de chat (met bevestiging)."
+  },
+  {
+    "version": "1.10.1",
+    "date": "2026-08-20",
+    "notes": "Sessiepaneel: zachtere look en de chatbalk blijft altijd zichtbaar"
+  },
+  {
+    "version": "1.10.0",
+    "date": "2026-08-20",
+    "notes": "Automatische updates: de app houdt zichzelf vanaf nu up-to-date"
+  }
+]
