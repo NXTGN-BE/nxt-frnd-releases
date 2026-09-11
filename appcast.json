@@ -1,5 +1,5 @@
 {
-  "version": "1.10.4",
+  "version": "1.11.0",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Versienummer zichtbaar in het tandwiel-menu, zodat je ziet welke versie je hebt."
+  "notes": "Voorbereiding op een sessie loggen, komende sessies in het paneel, en intern werk (marketing, bizdev, operations) dat niet meetelt in je maandtotaal."
 }
