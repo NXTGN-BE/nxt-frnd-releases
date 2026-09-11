@@ -1,5 +1,5 @@
 {
-  "version": "1.13.2",
+  "version": "1.13.3",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Instellingen zijn nu bereikbaar via het tandwiel (Instellingen…, ⌘,) — nodig om het Notion-token voor de Budgetten-tab te plakken."
+  "notes": "De Notion-uitleg in de instellingen verwijst nu naar het teamtoken (NXT FRND Team) voor de Budgetten-tab."
 }

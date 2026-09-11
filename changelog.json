@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.13.3",
+    "date": "2026-09-11",
+    "notes": "De Notion-uitleg in de instellingen verwijst nu naar het teamtoken (NXT FRND Team) voor de Budgetten-tab."
+  },
+  {
     "version": "1.13.2",
     "date": "2026-09-11",
     "notes": "Instellingen zijn nu bereikbaar via het tandwiel (Instellingen…, ⌘,) — nodig om het Notion-token voor de Budgetten-tab te plakken."
