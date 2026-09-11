@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.13.1",
+    "date": "2026-09-11",
+    "notes": "Projecten-tab heet nu Budgetten en legt zelf uit hoe je het Notion-token instelt (vraag het teamtoken aan Gilles en plak het in ⌘,)."
+  },
+  {
     "version": "1.13.0",
     "date": "2026-09-11",
     "notes": "Nieuw: Projecten-tab — budgetopvolging uit Notion (werkbudget, drempels 50/70/95%, regie-marges en gerealiseerde marge per afgerond project). Plak je Notion-token in de instellingen (⌘,) en zet Projecten aan bij Venster."
