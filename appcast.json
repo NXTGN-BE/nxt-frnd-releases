@@ -1,5 +1,5 @@
 {
-  "version": "1.11.3",
+  "version": "1.11.4",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Leesbaarder sessie-widget: compactere rijen, vette datums, duidelijkere labels"
+  "notes": "TEST-label naast het Logboek-tabblad: dat deel is nog in test"
 }
