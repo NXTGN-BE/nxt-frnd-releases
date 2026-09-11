@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.13.0",
+    "date": "2026-09-11",
+    "notes": "Nieuw: Projecten-tab — budgetopvolging uit Notion (werkbudget, drempels 50/70/95%, regie-marges en gerealiseerde marge per afgerond project). Plak je Notion-token in de instellingen (⌘,) en zet Projecten aan bij Venster."
+  },
+  {
     "version": "1.11.7",
     "date": "2026-09-11",
     "notes": "Wat is nieuw toont nu ook de nieuwigheden van vorige versies"

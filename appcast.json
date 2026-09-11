@@ -1,5 +1,5 @@
 {
-  "version": "1.11.7",
+  "version": "1.13.0",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Wat is nieuw toont nu ook de nieuwigheden van vorige versies"
+  "notes": "Nieuw: Projecten-tab — budgetopvolging uit Notion (werkbudget, drempels 50/70/95%, regie-marges en gerealiseerde marge per afgerond project). Plak je Notion-token in de instellingen (⌘,) en zet Projecten aan bij Venster."
 }
