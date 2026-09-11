@@ -1,5 +1,5 @@
 {
-  "version": "1.11.1",
+  "version": "1.11.2",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Voorbereiding loggen op een sessie, komende sessies in het paneel, intern werk via de chat (\"log 2u marketing\") dat buiten je maandtotaal blijft, en een 'Wat is nieuw' in het tandwiel-menu."
+  "notes": "Voorbereiding boeken op een komende sessie, ook als je niets openstaan hebt."
 }
