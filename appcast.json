@@ -1,5 +1,5 @@
 {
-  "version": "1.11.5",
+  "version": "1.11.6",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Dock-klik opent nu het venster; de widget blijft via de menubar en ⌃⌥T"
+  "notes": "Groen actiekader alleen nog bij echt geboekte tijd, niet bij vragen of lookups"
 }
