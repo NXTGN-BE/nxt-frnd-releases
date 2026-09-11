@@ -1,5 +1,5 @@
 {
-  "version": "1.11.6",
+  "version": "1.11.7",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Groen actiekader alleen nog bij echt geboekte tijd, niet bij vragen of lookups"
+  "notes": "Wat is nieuw toont nu ook de nieuwigheden van vorige versies"
 }
