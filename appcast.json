@@ -1,5 +1,5 @@
 {
-  "version": "1.11.2",
+  "version": "1.11.3",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Voorbereiding boeken op een komende sessie, ook als je niets openstaan hebt."
+  "notes": "Leesbaarder sessie-widget: compactere rijen, vette datums, duidelijkere labels"
 }
