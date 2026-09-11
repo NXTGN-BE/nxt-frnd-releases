@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.13.2",
+    "date": "2026-09-11",
+    "notes": "Instellingen zijn nu bereikbaar via het tandwiel (Instellingen…, ⌘,) — nodig om het Notion-token voor de Budgetten-tab te plakken."
+  },
+  {
     "version": "1.13.1",
     "date": "2026-09-11",
     "notes": "Projecten-tab heet nu Budgetten en legt zelf uit hoe je het Notion-token instelt (vraag het teamtoken aan Gilles en plak het in ⌘,)."
