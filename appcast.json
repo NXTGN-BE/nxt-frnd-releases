@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
+  "version": "1.11.1",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Voorbereiding op een sessie loggen, komende sessies in het paneel, en intern werk (marketing, bizdev, operations) dat niet meetelt in je maandtotaal."
+  "notes": "Voorbereiding loggen op een sessie, komende sessies in het paneel, intern werk via de chat (\"log 2u marketing\") dat buiten je maandtotaal blijft, en een 'Wat is nieuw' in het tandwiel-menu."
 }
