@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.13.4",
+    "date": "2026-09-24",
+    "notes": "Budgetten › Afgerond is duidelijker: per project zie je budget, kosten, hoeveel commissie sales echt kan krijgen (en wat niet gedekt is) en de marge die overblijft. Klik op een project voor de volledige waterval."
+  },
+  {
     "version": "1.13.3",
     "date": "2026-09-11",
     "notes": "De Notion-uitleg in de instellingen verwijst nu naar het teamtoken (NXT FRND Team) voor de Budgetten-tab."

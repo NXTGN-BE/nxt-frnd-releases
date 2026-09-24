@@ -1,5 +1,5 @@
 {
-  "version": "1.13.3",
+  "version": "1.13.4",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "De Notion-uitleg in de instellingen verwijst nu naar het teamtoken (NXT FRND Team) voor de Budgetten-tab."
+  "notes": "Budgetten › Afgerond is duidelijker: per project zie je budget, kosten, hoeveel commissie sales echt kan krijgen (en wat niet gedekt is) en de marge die overblijft. Klik op een project voor de volledige waterval."
 }
