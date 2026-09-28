@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.15.0",
+    "date": "2026-09-28",
+    "notes": "Logboek is nu 'Timetracker for boomers': alle time entries in één tabel die je op elke kolom kan sorteren en filteren, met bovenaan een snel formulier om een entry toe te voegen (project zoeken door te typen)."
+  },
+  {
     "version": "1.14.0",
     "date": "2026-09-28",
     "notes": "Sessies: zoek komende sessies verder in de toekomst en log er meteen je voorbereiding op."

@@ -1,5 +1,5 @@
 {
-  "version": "1.14.0",
+  "version": "1.15.0",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Sessies: zoek komende sessies verder in de toekomst en log er meteen je voorbereiding op."
+  "notes": "Logboek is nu 'Timetracker for boomers': alle time entries in één tabel die je op elke kolom kan sorteren en filteren, met bovenaan een snel formulier om een entry toe te voegen (project zoeken door te typen)."
 }
