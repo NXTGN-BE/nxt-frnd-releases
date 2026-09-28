@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.14.0",
+    "date": "2026-09-28",
+    "notes": "Sessies: zoek komende sessies verder in de toekomst en log er meteen je voorbereiding op."
+  },
+  {
     "version": "1.13.4",
     "date": "2026-09-24",
     "notes": "Budgetten › Afgerond is duidelijker: per project zie je budget, kosten, hoeveel commissie sales echt kan krijgen (en wat niet gedekt is) en de marge die overblijft. Klik op een project voor de volledige waterval."
