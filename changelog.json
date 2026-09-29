@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.15.1",
+    "date": "2026-09-29",
+    "notes": "Nieuw: een 'Update nu'-knop in de widget en het venster zodra er een update klaarstaat. Timetracker en Budgetten zijn geen test meer."
+  },
+  {
     "version": "1.15.0",
     "date": "2026-09-28",
     "notes": "Logboek is nu 'Timetracker for boomers': alle time entries in één tabel die je op elke kolom kan sorteren en filteren, met bovenaan een snel formulier om een entry toe te voegen (project zoeken door te typen)."

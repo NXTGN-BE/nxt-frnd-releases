@@ -1,5 +1,5 @@
 {
-  "version": "1.15.0",
+  "version": "1.15.1",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Logboek is nu 'Timetracker for boomers': alle time entries in één tabel die je op elke kolom kan sorteren en filteren, met bovenaan een snel formulier om een entry toe te voegen (project zoeken door te typen)."
+  "notes": "Nieuw: een 'Update nu'-knop in de widget en het venster zodra er een update klaarstaat. Timetracker en Budgetten zijn geen test meer."
 }
