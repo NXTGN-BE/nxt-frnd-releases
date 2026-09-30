@@ -1,5 +1,5 @@
 {
-  "version": "1.15.1",
+  "version": "1.15.2",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Nieuw: een 'Update nu'-knop in de widget en het venster zodra er een update klaarstaat. Timetracker en Budgetten zijn geen test meer."
+  "notes": "Budgetten: klik op een project om te zien welke uren boven het werkbudget vielen, hoeveel en door wie — per persoon en per entry, gekleurd naar marge, commissie of verlies."
 }

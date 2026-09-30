@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.15.2",
+    "date": "2026-09-30",
+    "notes": "Budgetten: klik op een project om te zien welke uren boven het werkbudget vielen, hoeveel en door wie — per persoon en per entry, gekleurd naar marge, commissie of verlies."
+  },
+  {
     "version": "1.15.1",
     "date": "2026-09-29",
     "notes": "Nieuw: een 'Update nu'-knop in de widget en het venster zodra er een update klaarstaat. Timetracker en Budgetten zijn geen test meer."
