@@ -1,5 +1,5 @@
 {
-  "version": "1.15.2",
+  "version": "1.16.0",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Budgetten: klik op een project om te zien welke uren boven het werkbudget vielen, hoeveel en door wie — per persoon en per entry, gekleurd naar marge, commissie of verlies."
+  "notes": "Nieuwe look: de app heet nu NXTGN HUB, met een nieuwe opening, een vernieuwde NXT FRND-widget en een inklapbare zijbalk (klik op het logo of ⌃⌘S)."
 }

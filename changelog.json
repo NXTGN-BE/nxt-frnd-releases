@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.16.0",
+    "date": "2026-10-01",
+    "notes": "Nieuwe look: de app heet nu NXTGN HUB, met een nieuwe opening, een vernieuwde NXT FRND-widget en een inklapbare zijbalk (klik op het logo of ⌃⌘S)."
+  },
+  {
     "version": "1.15.2",
     "date": "2026-09-30",
     "notes": "Budgetten: klik op een project om te zien welke uren boven het werkbudget vielen, hoeveel en door wie — per persoon en per entry, gekleurd naar marge, commissie of verlies."
