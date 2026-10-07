@@ -1,5 +1,5 @@
 {
-  "version": "1.16.0",
+  "version": "1.16.1",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Nieuwe look: de app heet nu NXTGN HUB, met een nieuwe opening, een vernieuwde NXT FRND-widget en een inklapbare zijbalk (klik op het logo of ⌃⌘S)."
+  "notes": "Nieuwe openingsquotes met meer variatie (en minder over uren loggen). Budgetten kunnen voortaan ook zonder eigen Notion-token, via de NXTGN-server."
 }

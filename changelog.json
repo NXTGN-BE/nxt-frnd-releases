@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.16.1",
+    "date": "2026-10-07",
+    "notes": "Nieuwe openingsquotes met meer variatie (en minder over uren loggen). Budgetten kunnen voortaan ook zonder eigen Notion-token, via de NXTGN-server."
+  },
+  {
     "version": "1.16.0",
     "date": "2026-10-01",
     "notes": "Nieuwe look: de app heet nu NXTGN HUB, met een nieuwe opening, een vernieuwde NXT FRND-widget en een inklapbare zijbalk (klik op het logo of ⌃⌘S)."
