@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.16.2",
+    "date": "2026-10-12",
+    "notes": "Timetracker: je kan nu een datum kiezen bij een nieuwe entry, om vergeten uren van een eerdere dag in te halen. Kleine fix aan de zijbalk in het venster."
+  },
+  {
     "version": "1.16.1",
     "date": "2026-10-07",
     "notes": "Nieuwe openingsquotes met meer variatie (en minder over uren loggen). Budgetten kunnen voortaan ook zonder eigen Notion-token, via de NXTGN-server."
