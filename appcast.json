@@ -1,5 +1,5 @@
 {
-  "version": "1.16.2",
+  "version": "1.16.3",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Timetracker: je kan nu een datum kiezen bij een nieuwe entry, om vergeten uren van een eerdere dag in te halen. Kleine fix aan de zijbalk in het venster."
+  "notes": "Budgetten: de tab kan niet meer eindeloos blijven laden. Projecten en uren komen nu tegelijk binnen, en je ziet hoeveel rijen er al geladen zijn."
 }

@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.16.3",
+    "date": "2026-10-19",
+    "notes": "Budgetten: de tab kan niet meer eindeloos blijven laden. Projecten en uren komen nu tegelijk binnen, en je ziet hoeveel rijen er al geladen zijn."
+  },
+  {
     "version": "1.16.2",
     "date": "2026-10-12",
     "notes": "Timetracker: je kan nu een datum kiezen bij een nieuwe entry, om vergeten uren van een eerdere dag in te halen. Kleine fix aan de zijbalk in het venster."
