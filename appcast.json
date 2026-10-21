@@ -1,5 +1,5 @@
 {
-  "version": "1.16.3",
+  "version": "1.16.4",
   "zip": "https://raw.githubusercontent.com/NXTGN-BE/nxt-frnd-releases/main/NXT-FRND.zip",
-  "notes": "Budgetten: de tab kan niet meer eindeloos blijven laden. Projecten en uren komen nu tegelijk binnen, en je ziet hoeveel rijen er al geladen zijn."
+  "notes": "Budgetten: een duidelijkere foutmelding. 'Geen toegang' verschijnt nu alleen als je account echt geen toegang heeft; lukt het laden om een andere reden niet, dan zegt de tab dat gewoon."
 }
